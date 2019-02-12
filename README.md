@@ -1,6 +1,7 @@
 # IGN News Scrapper #
 
-A scrapper that retrieves articles from IGN.com and displays some information and a link. Users can save favoites.
+A scrapper that retrieves articles from IGN.com and displays some information and a link. Also allows users can save favoites. 
+Built using Node.js and MongoDB.
 
 ![IGN News Scrapper](./public/images/IGN-Scrapper.png)
 
