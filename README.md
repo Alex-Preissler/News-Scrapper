@@ -1,1 +1,38 @@
-# News-Scrapper
+# IGN News Scrapper #
+
+A scrapper that retrieves articles from IGN.com and displays some information and a link. Users can save favoites.
+
+![IGN News Scrapper](./public/images/IGN-Scrapper.png)
+
+
+## Contributors ##
+
+Alex Preissler
+
+## Instructions ##
+
+1. Clone repo.
+2. Ensure Node is installed and a MongoDB database is available.
+3. First execution will create the appropriate models for Mongo.
+6. Using the command line navigate to the News-Scrapper root folder and execute the command "npm install".
+6. Once npm installs the packages run the command "node server.js".
+7. The command line will display the localhost address/port the server is listening on.
+8. In a browser, navigate to the local host address displayed.
+9. The application will allow a user to scrape for new IGN articles, clear the articles, save favorites, and each article can link out to its full story in IGN.
+
+## Contact ##
+
+For any help or requests please contact Alex Priessler.
+
+Github: Alex-Preissler
+
+Email: AlexJPreissler@Outlook.com
+
+## Contributing to the project##
+
+* Feel free to create a new branch and edit/add to the project.
+
+
+
+
+
